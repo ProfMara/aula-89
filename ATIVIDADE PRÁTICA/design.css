@@ -1,0 +1,73 @@
+body{
+    background-image: url('fundo.png');
+    background-size: 100%;
+    
+}
+#site2{
+    background-image: url('hacker dançando.gif');
+    background-size: 100%; 
+}
+.container{
+    position:relative;
+    height:100%;
+}
+img{
+    position: absolute;
+    bottom:10px;
+    right:10px;
+}
+
+h3{
+    color:black;
+    font-weight: 900;
+    
+    font-size: 40px;
+    text-shadow: 
+    -1px -1px 0px rgb(0, 255, 055), 
+    -1px 1px 0px rgb(0, 255, 055),                    
+     1px -1px 0px rgb(0, 255, 055),                  
+     1px 1px 1px rgb(0, 255, 055);
+}
+#titulo{
+    color:yellow;
+    font-size: 40px;
+    font-weight: 900;
+    text-shadow: 
+    -1px -1px 0px #000, 
+    -1px 1px 0px #000,                    
+     1px -1px 0px #000,                  
+     1px 1px 1px #000;
+}
+
+
+button{
+    background-color:black;
+    border-radius: 30px;
+    font-weight: 900;
+    margin:20px;
+    padding:15px;
+    
+    color:white;
+    font-size: 20px;
+    box-shadow: 
+    -1px -1px 0px rgb(0, 255, 055), 
+    -1px 1px 0px rgb(0, 255, 055),                    
+     1px -1px 0px rgb(0, 255, 055),                  
+     1px 1px 1px rgb(0, 255, 055);
+}
+
+#nome{
+    background-color:white;
+    border-radius: 30px;
+    font-weight: 900;
+    margin:20px;
+    padding:25px;
+    
+    color:black;
+    font-size: 20px;
+    box-shadow: 
+    -1px -1px 0px rgb(0, 255, 055), 
+    -1px 1px 0px rgb(0, 255, 055),                    
+     1px -1px 0px rgb(0, 255, 055),                  
+     1px 1px 1px rgb(0, 255, 055);
+}
